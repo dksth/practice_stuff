@@ -1,7 +1,7 @@
 # A file for practicing git using simple calculations
 
 def add(x, y):
-    pass
+    return x + y
     
 def subtract(x, y):
     pass
