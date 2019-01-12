@@ -11,3 +11,6 @@ def multiply(x, y):
     
 def divide(x, y):
     pass
+
+def x_to_the_y(x, y):
+	return x ** y
