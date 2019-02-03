@@ -14,3 +14,6 @@ def divide(x, y):
 
 def x_to_the_y(x, y):
 	return x ** y
+
+def shit(x, y):
+	return x**y**2
